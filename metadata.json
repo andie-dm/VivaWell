@@ -1,0 +1,6 @@
+{
+  "name": "VivaWell - Holistic Wellness & Gentle Streaks",
+  "description": "Supportive, bilingual wellness tracking across eight domains with flexible rhythm streaks, gentle rest days, and privacy-respecting activity insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
